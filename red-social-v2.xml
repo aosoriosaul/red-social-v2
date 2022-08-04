@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="red-social-v2">
+    <Basepaths>/red-social/v2</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1658358020589</CreatedAt>
+    <CreatedBy>aosoriosaul@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>red-social-v2</DisplayName>
+    <LastModifiedAt>1658359107493</LastModifiedAt>
+    <LastModifiedBy>aosoriosaul@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:38bf3074792ebd953078e1319b44586cead724e659d6985e064ccf88758bbd7e53a19cd03d5fdf7bde144c6aea696adf501a18f540548afa023c5a3766427556:us-west-2</ManifestVersion>
+    <Policies>
+        <Policy>AM-FixEncoding</Policy>
+        <Policy>rc-cache</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
